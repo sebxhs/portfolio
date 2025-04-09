@@ -4,7 +4,7 @@ import logo from "../Images/portlogo.png"
 import Email  from "../Images/Email.png"
 import linkedin from "../Images/Linkedin.png"
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
-import facebook from "../Images/Facebook.png"
+import facebook from "../Images/Facebook.png" 
 
 function Footer() {
   return (
