@@ -44,7 +44,7 @@ function Header() {
               and visually compelling experiences.
             </h1>
             <p className={styles.heroSubheading}>
-              Let's collaborate! Feel free to reach out and connect.
+              Let's collaborate! Feel free to reach out and connect!
             </p>
 
             <button
